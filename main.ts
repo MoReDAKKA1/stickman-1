@@ -9,5 +9,5 @@ animation.runImageAnimation(
 mySprite,
 assets.animation`Walking Stickman`,
 500,
-false
+true
 )
