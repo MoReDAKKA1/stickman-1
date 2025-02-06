@@ -11,3 +11,15 @@ assets.animation`Walking Stickman`,
 500,
 true
 )
+animation.runImageAnimation(
+mySprite,
+assets.animation`throwing ball`,
+500,
+true
+)
+animation.runImageAnimation(
+mySprite,
+assets.animation`jumping jack`,
+300,
+true
+)
